@@ -11,7 +11,7 @@ A simple food delivery website built using **HTML, CSS, and JavaScript**.
 ## 🛠 Technologies Used
 - HTML, CSS, JavaScript
 - Firebase (for storing orders)
-- TheMealDB API (for fetching food items)
+
 
 ## 📌 How to Run the Project
 1. Download or clone this repository.
