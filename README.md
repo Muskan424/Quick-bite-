@@ -63,8 +63,8 @@ Cloudinary (for image storage)
 Follow these steps to run the project locally:
 
 # Clone the repository
-git clone https://github.com/your-username/food-delivery-website.git
-
+git clone[ https://github.com/your-username/food-delivery-]website.git
+http://127.0.0.1:5500/index.html
 # Navigate to the project directory
 cd food-delivery-website
 
